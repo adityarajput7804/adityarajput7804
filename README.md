@@ -1,5 +1,5 @@
-## Hi there 👋
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub)
+## Hi there 👋
 💻 I'm a **Cybersecurity Enthusiast** and an **enthusiastic MEAN Stack Full-Stack Developer**.
 🔐 I enjoy learning about cybersecurity, ethical hacking, and building secure applications.
 🚀 I love developing modern web applications using the **MEAN Stack (MongoDB, Express, Angular, Node.js)**.
