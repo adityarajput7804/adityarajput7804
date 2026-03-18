@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 **adityarajput7804/adityarajput7804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## Hi there 👋
 
@@ -17,5 +14,3 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Java](https://img.shields.io/badge/Java-orange)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub)
-
--->
