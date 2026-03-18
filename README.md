@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub)
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400">
 ## Hi there 👋
 💻 I'm a **Cybersecurity Enthusiast** and an **enthusiastic MEAN Stack Full-Stack Developer**.
 🔐 I enjoy learning about cybersecurity, ethical hacking, and building secure applications.
